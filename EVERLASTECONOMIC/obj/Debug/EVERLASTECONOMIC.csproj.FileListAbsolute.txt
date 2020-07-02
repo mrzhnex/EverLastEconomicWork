@@ -1,0 +1,10 @@
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\bin\Debug\EVERLASTECONOMIC.exe.config
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\bin\Debug\EVERLASTECONOMIC.exe
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\bin\Debug\EVERLASTECONOMIC.pdb
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\obj\Debug\EVERLASTECONOMIC.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\obj\Debug\EVERLASTECONOMIC.Properties.Resources.resources
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\obj\Debug\EVERLASTECONOMIC.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\obj\Debug\EVERLASTECONOMIC.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\obj\Debug\EVERLASTECONOMIC.exe
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\obj\Debug\EVERLASTECONOMIC.pdb
+C:\Users\Саша\source\repos\EVERLASTECONOMIC\EVERLASTECONOMIC\obj\Debug\EVERLASTECONOMIC.Form1.resources
